@@ -20,7 +20,7 @@ def key_for_min_value(name_hash)
     
   end
   
-   k
+   lowest_key
 
 end
 
